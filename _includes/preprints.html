@@ -1,6 +1,8 @@
 <h2 class="mt-4">Working Papers</h2>
 
-{% for paper in site.preprints %}
+{% assign papers = site.preprints | sort:'number' %}
+
+{% for paper in papers %}
   <div class='mt-4'>
     {{ paper.number }}. {{ paper.title }}
     <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>

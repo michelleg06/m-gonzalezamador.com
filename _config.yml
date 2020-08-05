@@ -1,5 +1,3 @@
 collections:
   publications:
-    sort_by: number
   preprints:
-    sort_by: number
