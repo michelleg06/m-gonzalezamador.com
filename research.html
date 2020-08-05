@@ -1,158 +1,45 @@
-<!DOCTYPE HTML>
+---
+layout: default
+title: Edwin Lock - Research
+---
 
-<html>
+<section class="row pt-4 pb-4">	
 
-<head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173252356-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+  <div class="col-md-3 d-none d-md-block">
+    <div class="mt-4 mb-4 text-center">
+        <img src="assets/images/network.png" class="img-fluid" alt="A network with differently coloured nodes.">
+        <small>A network-based SIR simulation of a COVID-19 outbreak.</small>
+    </div>
+  </div>
 
-	  gtag('config', 'UA-173252356-1');
-	</script>
+  <div class="col-md-9">
+    <div class="pt-4 pb-4 text-justify">
+      <h2>Research</h2>
+      <p>My doctoral research focuses on pricing and auctions, specifically providing complexity
+      bounds and designing effective algorithms for determining viability of mechanisms in the
+      dual settings of social welfare and profit maximisation. This stimulating and active area of
+      research has an abundance of open problems and deep implications for the world outside of
+      academia.</p>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<title>Edwin Lock - Research</title>
-</head>
+      <p>I am also interested in mechanisms that maximise the benefits of scarce resources in low to
+      middle income countries (LMICs). In response to the COVID-19 pandemic, I co-founded the
+      project <a class="text-secondary" href="http://testandcontain.com">Test and Contain</a>, which
+      considers the problem of utilising limited testing resources in an optimal way so as to
+      minimise the impact on the health and livelihoods of those who are hardest hit in
+      LMICs. This project is supported by a GCEC'20 grant.</p>
 
-<body class="container">
-	<header>
-		<div class="text-right">
-			<nav class="navbar navbar-expand-md navbar-light bg-white border-bottom">
-				<h1 class="navbar-brand" href="#">Edwin Lock</h1>
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item">
-						<a class="nav-link" href="index.html">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link active" href="research.html">Research</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="teaching.html">Teaching</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="contact.html">Contact</a>
-					</li>
-				</ul>
-			</nav>
-		</div>
-	</header>
-	
-	<section class="row pt-4 pb-4">	
-		<div class="col-md-3">
-			<div class="mt-4 mb-4 text-center">
-				<img src="network.png" class="img-fluid" alt="A network with differently coloured nodes.">
-				<small>A network-based SIR simulation of a COVID-19 outbreak.</small>
-			</div>
-		</div>
-		<div class="col-md-9">
+      <h6 class="mt-4">Test and Contain (1 minute, GCEC'20 lightning talk)</h6>
+      
+      <div class="mt-4 mb-4 embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RHAzUeewFP0" allowfullscreen></iframe>
+      </div>
 
-		<div class="pt-4 pb-4 text-justify">
-			<h2>Research</h2>
+      {% include publications.html %}
+      {% include preprints.html %}
+    </div>
+    <div class="text-center">
+    <a class="btn btn-outline-secondary mb-4" href="assets/files/cv.pdf">↳ Full CV</a>
+    </div>
+  </div>
 
-			<p>My doctoral research focuses on pricing and auctions, specifically providing complexity
-				bounds and designing effective algorithms for determining viability of mechanisms in the
-				dual settings of social welfare and profit maximisation. This stimulating and active area of
-				 research has an abundance of open problems and deep implications for the world outside of
-				 academia.</p>
-
-			<p>I am also interested in mechanisms that maximise the benefits of scarce resources in low to
-			middle income countries (LMICs). In response to the COVID-19 pandemic, I co-founded the
-			project <a class="text-secondary" href="http://testandcontain.com">Test and Contain</a>, which
-			considers the problem of utilising limited testing resources in an optimal way so as to
-			minimise the impact on the health and livelihoods of those who are hardest hit in
-			LMICs. This project is supported by a GCEC'20 grant.</p>
-			
-			<h6 class='mt-4'>Test and Contain (1 minute, GCEC'20 lightning talk)</h6>
-			<div class="mt-4 mb-4 embed-responsive embed-responsive-16by9">
-			  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RHAzUeewFP0" allowfullscreen></iframe>
-			</div>
-
-			<h4 class='mt-4'>Publications</h4>
-			
-			<div class='mt-4'>
-				1. Test and Contain: A Resource-Optimal Testing Strategy for COVID-19
-				<a class="badge badge-pill badge-secondary" href="ai4sg.pdf">link</a>
-				<br>
-				<small class="text-secondary">Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco Marmolejo-Cossío, C. Bronk Ramsey and Divya Sridhar.<br>
-					AI for Social Good 2020, Harvard CRCS Workshop.
-				</small>
-			</div>
-			
-			<div class='mt-4'>
-				2. Characterising and recognising game-perfect graphs
-				<a class="badge badge-pill badge-secondary"
-					 href="https://dmtcs.episciences.org/5499/pdf">link</a>
-				<br>
-				<small class="text-secondary">Stephan Dominique Andres and Edwin Lock.<br>
-					Discrete Mathematics and Theoretical Computer Science (DMTCS), vol. 21:1, 2019, #6.
-				</small>
-			</div>
-			
-			
-			<h4 class='mt-4'>Working papers</h4>
-			<div class='mt-4'>
-				3. Maximising the Benefits of an Acutely Limited Number of COVID-19 Tests
-				<a class="badge badge-pill badge-secondary"
-					 href="https://arxiv.org/abs/2004.13650">link</a>
-				<br>
-				<small class="text-secondary">Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco 
-																			Marmolejo-Cossío, C. Bronk Ramsey, Meghana Shukla and Divya
-																			Sridhar.<br>
-					ArXiv preprint.
-				</small>
-			</div>
-			<div class='mt-4'>
-				4. Learning Strong Substitutes Demand via Queries
-				<a class="badge badge-pill badge-secondary"
-					 href="https://arxiv.org/abs/2005.01496">link</a>
-				<br>
-				<small class="text-secondary">Paul W Goldberg, Edwin Lock and Francisco 
-																			Marmolejo-Cossío.<br>
-					ArXiv preprint.
-				</small>
-			</div>
-			<div class='mt-4'>
-				5. Solving Strong-Substitutes Product-Mix Auctions
-				<a class="badge badge-pill badge-secondary"
-					 href="https://arxiv.org/abs/1909.07313">link</a>
-				<br>
-				<small class="text-secondary">Elizabeth Baldwin, Paul W Goldberg, Paul Klemperer and Edwin 
-																			Lock.<br>
-					ArXiv preprint.
-				</small>
-			</div>
-		</div>
-	</section>
-
-	<footer class="text-center">
-		<div class="border-top pt-4 row justify-content-md-center">
-			<div class="col-sm-3">
-				<strong>Address</strong>
-				<address>
-					Merton College<br>
-					Merton Street<br>
-					Oxford, OX1 4JD<br>
-					United Kingdom
-				</address>
-			</div>
-			<div class="col-sm-3">
-				<strong>Email</strong><br>
-				<a class="text-secondary" href="mailto:mail@edwinlock.com">mail@edwinlock.com</a> <br>or<br>
-				<a class="text-secondary" href="mailto:edwin.lock@cs.ox.ac.uk">edwin.lock@cs.ox.ac.uk</a>
-			</div>
-			<div class="col-sm-3">
-				<strong>Projects</strong> <br>
-				<a class="text-secondary" href="http://testandcontain.com">Test and Contain (COVID-19)</a><br>
-				<a class="text-secondary" href="https://github.com/edwinlock/product-mix">Product-Mix Auction</a>
-			</div>
-		</div>
-		<span class="text-center">© Edwin Lock 2020</span>
-	</footer>
-</body>
-
-</html>
+</section>
