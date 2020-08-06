@@ -3,7 +3,21 @@
   {% include head.html %}
 	<body class="container">
 		{% include navigation.html %}
-		{{ content }}
+    <section class="row pt-4 pb-4">	
+      <div class="col-md-3 d-none d-md-block">
+        <div class="mt-4 mb-4 text-center">
+            <img src="assets/images/{{ page.image }}" class="img-fluid" alt="{{ page.caption }}">
+            <small>{{ page.caption }}</small>
+        </div>
+      </div>
+
+      <div class="col-md-9 py-4">
+        {{ content }}
+      </div>
+
+    </section>
 		{% include footer.html %}
 	</body>
 </html>
+
+

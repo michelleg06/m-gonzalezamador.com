@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  {% include indexhead.html %}
+  <body class="container">
+    {% include navigation.html %}
+    <section class="row py-4">
+      <div class="col-md-3 d-none d-md-block">
+        <div class="mt-4 mb-4 text-center">
+          <img src="assets/images/{{page.image}}" class="img-fluid img-thumbnail rounded-circle" alt="An image of my face.">
+          <h4>{{ site.fullname }}</h4>
+          <p class="text-center">
+          {{ site.position }}
+          <br>
+          {{ site.department }}
+          <br>
+          {{ site.university }}
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-9 py-4">
+        {{ content }}
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

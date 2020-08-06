@@ -3,19 +3,19 @@
 {% assign papers = site.publications | sort:'number' %}
 
 {% for paper in papers %}
-  <div class='mt-4'>
-    {{ paper.number }}. {{ paper.title }}
-    <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
-    <br>
-    <small class="text-secondary">
-      {{ paper.authors}}.
-      <br>
-      {{ paper.venue }},
-      {% if paper.misc %} {{paper.misc }}, {% endif %}
-      {{ paper.year }}
-    </small>
-  </div>
-  <!-- <div class="mt-4 pb-1">
-    {{ paper.content }}
-  </div> -->
+<div class='mt-4'>
+{{ paper.number }}. {{ paper.title }}
+<a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
+<br>
+<small class="text-secondary">
+{{ paper.authors}}.
+<br>
+{{ paper.venue }},
+{% if paper.misc %} {{paper.misc }}, {% endif %}
+{{ paper.year }}
+</small>
+</div>
+<!-- <div class="mt-4 pb-1">
+{{ paper.content }}
+</div> -->
 {% endfor %}

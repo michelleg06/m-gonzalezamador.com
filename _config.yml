@@ -1,4 +1,10 @@
+# Change this
 fullname: Edwin Lock
+position: Doctoral Candidate
+department: Department of Computer Science
+university: University of Oxford
+
+# Don't change this
 collections:
   publications:
   preprints:
