@@ -4,7 +4,7 @@ position: Doctoral Candidate
 department: Rudolf Peierls Centre for Theoretical Physics / UK Atomic Energy Agency
 university: University of Oxford
 
-building: # optional
+building: Clarendon Laboratory # optional
 street: Parks Road # optional
 city: Oxford # optional
 postcode: OX1 3PU # optional
@@ -14,6 +14,7 @@ email: valerian@hall-chen.com
 secondary: # optional
 
 formurl: https://formspree.io/myynorgy
+url: valerianchen.github.io/valerian.hall-chen.com
 
 # DON'T CHANGE THIS
 collections:
