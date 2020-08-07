@@ -10,7 +10,7 @@ caption: "A map of the British Isles with Oxford highlighted."
 If you have any questions about my work, please get in touch and I'll get back to you
 as soon as I can. I am always open to collaborations.
 
-Email me at [mail@edwinlock.com](mailto:mail@edwinlock.com) or fill in the form below.
+Email me at [{{site.email}}](mailto:{{site.email}}) or fill in the form below.
 
 <form action="https://formspree.io/xzbjkqje" method="POST" class="mt-4 text-left">
 <div class="form-row">

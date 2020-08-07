@@ -1,10 +1,21 @@
-# Change this
+# CHANGE THIS
 fullname: Edwin Lock
 position: Doctoral Candidate
 department: Department of Computer Science
 university: University of Oxford
 
-# Don't change this
+building: Merton College  # optional
+street: Merton Street  # optional
+city: Oxford  # optional
+postcode: OX1 4JD  # optional
+country: United Kingdom  # optional
+
+email: mail@edwinlock.com
+secondary: edwin.lock@cs.ox.ac.uk  # optional
+
+formurl: https://formspree.io/xzbjkqje
+
+# DON'T CHANGE THIS
 collections:
   publications:
   preprints:

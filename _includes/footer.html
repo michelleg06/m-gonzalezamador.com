@@ -7,31 +7,37 @@
 		<div class="col-sm-3">
 			<strong>Address</strong>
 			<address>
-				Merton College<br>
-				Merton Street<br>
-				Oxford, OX1 4JD<br>
-				United Kingdom
+				{% if site.building %} {{site.building}} {% endif %}
+        <br>
+				{% if site.street %} {{site.street}} {% endif %}
+        <br>
+				{% if site.city %} {{site.city}} {% endif %}
+				{% if site.postcode %} {{site.postcode}} {% endif %}
+        <br>
+				{% if site.country %} {{site.country}} {% endif %}
 			</address>
 		</div>
 		<div class="col-sm-3">
 			<strong>Email</strong><br>
-			<a class="text-secondary" href="mailto:mail@edwinlock.com">mail@edwinlock.com</a>
+			<a class="text-secondary" href="mailto:{{site.email}}">{{site.email}}</a>
       <br>
-			<a class="text-secondary" href="mailto:edwin.lock@cs.ox.ac.uk">edwin.lock@cs.ox.ac.uk</a>
+      {% if site.secondary %}
+        <a class="text-secondary" href="mailto:{{site.secondary}}">{{site.secondary}}</a>
+      {% endif %}
 		</div>
-    
-		<div class="col-sm-3">
-			<strong>Projects</strong> <br>
-			<a class="text-secondary" href="http://testandcontain.com">Test and Contain (COVID-19)</a>
+
+    <div class="col-sm-3">
+      <strong>Projects</strong> <br>
+      <a class="text-secondary" href="http://testandcontain.com">Test and Contain (COVID-19)</a>
       <br>
-			<a class="text-secondary" href="https://github.com/edwinlock/product-mix">Product-Mix Auction</a>
+      <a class="text-secondary" href="https://github.com/edwinlock/product-mix">Product-Mix Auction</a>
       <br>
       <div class="mt-2">
         <a class="text-secondary" href="http://github.com/edwinlock/">http://github.com/edwinlock/</a>
       </div>
-		</div>
+    </div>
 	</div>
 	<span class="text-center pb-3">
-    © Edwin Lock 2020
+    © {{ site.fullname }} {{ site.time | date: "%Y" }}
   </span>
 </footer>
