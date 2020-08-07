@@ -1,19 +1,19 @@
 # CHANGE THIS
-fullname: Edwin Lock
+fullname: Valerian Hall-Chen
 position: Doctoral Candidate
-department: Department of Computer Science
+department: Rudolf Peierls Centre for Theoretical Physics / UK Atomic Energy Agency
 university: University of Oxford
 
-building: Merton College  # optional
-street: Merton Street  # optional
-city: Oxford  # optional
-postcode: OX1 4JD  # optional
-country: United Kingdom  # optional
+building: # optional
+street: Parks Road # optional
+city: Oxford # optional
+postcode: OX1 3PU # optional
+country: UK # optional
 
-email: mail@edwinlock.com
-secondary: edwin.lock@cs.ox.ac.uk  # optional
+email: valerian@hall-chen.com
+secondary: # optional
 
-formurl: https://formspree.io/xzbjkqje
+formurl: https://formspree.io/myynorgy
 
 # DON'T CHANGE THIS
 collections:
