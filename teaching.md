@@ -11,7 +11,7 @@ I enjoy teaching the computer science curriculum, both in a one-to-one tutorial 
 in the classroom.
 
 ##### Stipendiary Lecturer at Balliol College, University of Oxford
-* Teaching undergraduate computer science students in various subjects including</li>
+* Teaching undergraduate computer science students in various subjects including
   * Compilers
   * Concurrent Programming
   * Digital Systems
