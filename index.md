@@ -1,5 +1,5 @@
 ---
-layout: valerian
+layout: index
 image: profile.jpg
 ---
 ## About me
