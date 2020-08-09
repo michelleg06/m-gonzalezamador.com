@@ -1,6 +1,6 @@
 ---
 layout: index
-image: profile.jpg
+image: myhead.jpg
 ---
 ## About me
 I'm a third year DPhil (PhD) student at the University of Oxford, supervised by
