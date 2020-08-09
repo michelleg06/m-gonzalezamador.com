@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body class="container">
+    {% include navigation.html %}
+    <section class="py-4">
+      <div class="pt-2 text-center">
+        <img src="assets/images/{{page.image}}" class="img-fluid img-thumbnail w-50 m-auto" alt="An image of myself.">
+        <h4 class="mt-2">{{ site.fullname }}</h4>
+        <p class="text-center">
+        {{ site.position }}
+        <br>
+        {{ site.department }}
+        <br>
+        {{ site.university }}
+        </p>
+      </div>
+
+      <div class="pt-2 lead">
+        {{ content }}
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

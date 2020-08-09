@@ -14,3 +14,8 @@ a {
 
 a:hover, a:focus {
   color: #545b62;
+}
+
+h2 {
+	margin-top: -0.2em !important;
+}

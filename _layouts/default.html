@@ -3,15 +3,15 @@
   {% include head.html %}
 	<body class="container">
 		{% include navigation.html %}
-    <section class="row pt-4 pb-4">	
+    <section class="row py-4">
       <div class="col-md-3 d-none d-md-block">
-        <div class="mt-4 mb-4 text-center">
+        <div class="text-center">
             <img src="assets/images/{{ page.image }}" class="img-fluid" alt="{{ page.caption }}">
             <small>{{ page.caption }}</small>
         </div>
       </div>
 
-      <div class="col-md-9 py-4">
+      <div class="col-md-9">
         {{ content }}
       </div>
 
@@ -19,5 +19,3 @@
 		{% include footer.html %}
 	</body>
 </html>
-
-
