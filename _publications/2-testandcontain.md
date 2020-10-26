@@ -1,5 +1,5 @@
 ---
-number: 1
+number: 2
 title: "Test and Contain: A Resource-Optimal Testing Strategy for COVID-19"
 authors: "Jakob Jonnerby, Philip Lazos, Edwin Lock, Francisco Marmolejo-Cossío, C. Bronk Ramsey and Divya Sridhar"
 link: "https://aiforgood2020.github.io/papers/AI4SG_paper_83.pdf"

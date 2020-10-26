@@ -1,5 +1,5 @@
 ---
-number: 2
+number: 3
 title: Characterising and recognising game-perfect graphs
 authors: Stephan Dominique Andres and Edwin Lock
 link: https://dmtcs.episciences.org/5499/pdf
