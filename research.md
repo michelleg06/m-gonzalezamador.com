@@ -31,6 +31,7 @@ GCEC'20 grant. For more information, watch the 1 minute
 submitted to GCEC'20 (received best poster video award).
 
 {% include publications.html %}
-{% include preprints.html %}
+{% include preprints.html %}  
+  
 
 [↳ Full CV](assets/files/cv.pdf){: .btn .btn-outline-secondary .btn-center}
