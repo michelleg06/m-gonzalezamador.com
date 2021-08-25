@@ -3,9 +3,7 @@ layout: index
 image: myhead.jpg
 ---
 ## About me
-I'm a fourth-year DPhil (PhD) student at the University of Oxford, supervised by
-[Paul Goldberg](http://www.cs.ox.ac.uk/people/paul.goldberg/index1.html).
-My current research focuses on pricing and auctions, specifically determining the viability
+I'm a research fellow at Nuffield College and a postdoc (Alex Teytelboym group) at the Department of Economics at Oxford University. My current research focuses on pricing and auctions, specifically determining the viability
 of mechanisms in the dual settings of social welfare and profit maximisation. This
 stimulating and active area of research has an abundance of open problems and deep
 implications for the world outside of academia.
