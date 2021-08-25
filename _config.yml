@@ -3,18 +3,18 @@
 url: "https://www.edwinlock.com"
 
 fullname: Edwin Lock
-position: Doctoral Candidate
-department: Department of Computer Science
+position: Research Fellow
+department: Nuffield College
 university: University of Oxford
 
-building: Merton College  # optional
-street: Merton Street  # optional
+building: Nuffield College  # optional
+street: New Road  # optional
 city: Oxford  # optional
-postcode: OX1 4JD  # optional
+postcode: OX1 1NF  # optional
 country: United Kingdom  # optional
 
 email: mail@edwinlock.com
-secondary: edwin.lock@cs.ox.ac.uk  # optional
+secondary: edwin.lock@econ.ox.ac.uk  # optional
 
 formurl: https://formspree.io/xzbjkqje
 
