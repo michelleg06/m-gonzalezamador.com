@@ -6,20 +6,25 @@ caption: "A network-based SIR simulation of a COVID-19 outbreak."
 ---
 
 ## Research
-My doctoral research focuses on pricing and auctions, specifically providing complexity
-bounds and designing effective algorithms for determining viability of mechanisms in the
-dual settings of social welfare and revenue maximisation. This stimulating and active area of
-research has an abundance of open problems and deep implications for the world outside of
-academia.
+My doctoral research  focuses on educational decision-making of young people, with a focus 
+on human capital investment (read education). I use diverse econometric and experimental 
+methods to analyse how students make choices about their education, and the economic implications 
+of such actions. I am especially interested in the confluence of students' peer networks 
+and non-cognitive skills, and the study of these in resource-scarce settings, i.e. Low and Middle-Income Countries. 
+Some of the applied work that I do happens in Mexico, my home country.
 
-My work on the Product-Mix Auction (PMA), a multi-unit, multi good auction initially
-proposed by [Paul Klemperer](http://www.paulklemperer.org) for the Bank of England to provide
-liquidity to financial institutions during the crisis of 2007-8, focuses on finding
-effective algorithms to solve the auction with respect to social welfare and revenue
-maximisation. An implementation for social welfare is available
-[here](https://github.com/edwinlock/product-mix). In related work, I also study how bidder demand
-can be *learnt* via queries to a demand or valuation oracle, allowing bidders to participate in PMAs
-without having to understand the bidding language used.
+In collaboration with the International Labour Organisation, we revised and proposed
+a new framework with which to understand young people's aspirations as a 
+determinant of their future economic outcomes, and a complement to succesful employment policies.
+The paper, [Youth aspirations and the future of work](https://www.ilo.org/employment/Whatwedo/Publications/WCMS_790120/lang--en/index.htm)
+was jointly written with Drew Gardiner and Micheline Goedhuys. 
+
+In related work, I design a video-intervention to affect aspirations of high school 
+students in Mexico. The Randomized Controlled trial was carried out during the 2018-2019
+school year, with 45 participating schools from the Midwestern region of Mexico. We show that
+low-cost technological interventions, paired with a social networkdriven approach, are 
+effective policy tools to decrease information asymettries and optimise 
+student-decision making, through their aspirations. 
 
 I am also interested in mechanisms that maximise the benefits of scarce resources in low to
 middle income countries (LMICs). In response to the COVID-19 pandemic, I co-founded the
