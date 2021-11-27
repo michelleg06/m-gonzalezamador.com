@@ -1,20 +1,20 @@
 # CHANGE THIS
 
-url: "https://www.edwinlock.com"
+url: "https://www.m-gonzalezamador.com"
 
-fullname: Edwin Lock
-position: Research Fellow
-department: Nuffield College
-university: University of Oxford
+fullname: Michelle González Amador
+position: PhD Candidate
+department: School of Business and Economics
+university: UNU-MERIT/Maastricht University
 
-building: Nuffield College  # optional
-street: New Road  # optional
-city: Oxford  # optional
-postcode: OX1 1NF  # optional
-country: United Kingdom  # optional
+building: UNU-MERIT  # optional
+street: Boschstraat  # optional
+city: Maastricht  # optional
+postcode: 6211 AX  # optional
+country: Netherlands  # optional
 
-email: mail@edwinlock.com
-secondary: edwin.lock@economics.ox.ac.uk  # optional
+email: michelle.gonzalez.am@gmail.com
+secondary: mgonzalez@merit.unu.edu  # optional
 
 formurl: https://formspree.io/xzbjkqje
 
