@@ -8,7 +8,7 @@ caption: "A map of the British Isles with Oxford highlighted."
 ## Get in touch
 
 Feel free to get in touch with me if you want to discuss my work, collaborations, 
-or generally have a chat!
+or just have a chat over virtual coffee.
 
 
 E-mail me at [{{ site.email }}](mailto:{{site.email}}) or fill in the form below.
