@@ -7,7 +7,7 @@ caption: "A map of the British Isles with Oxford highlighted."
 
 ## Get in touch
 
-Feel free to get in touch with me if you want to discuss my work, collaborations, 
+Feel free to get in touch with me if you want to discuss my work, collaborate, 
 or just have a chat over virtual coffee.
 
 
