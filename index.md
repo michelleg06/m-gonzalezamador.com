@@ -1,6 +1,6 @@
 ---
 layout: index
-image: myhead.jpg
+image: myface.png
 ---
 ## About me
 I'm a PhD Candidate at the United Nations University, Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT) and Maastricht University, School of Business and Economics (SBE). My thesis research focuses on educational decision-making of young people, with a focus on human capital investment (read education). I use diverse econometric and experimental methods to analyse how students make choices about their education, and the economic implications of such actions. I am especially interested in the confluence of students' peer networks and non-cognitive skills, and the study of these in resource-scarce settings, i.e. Low and Middle-Income Countries. Some of the applied work that I do happens in Mexico, my home country.  
