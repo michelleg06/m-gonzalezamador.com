@@ -12,6 +12,6 @@ I am involved in the [Mechanism Design for Social Good community](http://www.md4
 
 Prior to my doctoral studies, I completed a BA in International Relations (2008-2013) at Mexico's Tec de Monterrey, Campus Guadalajara, with a specialisation in Political Science from Sciences Po Rennes, in France. I also hold a Master of Public Policy, with a Policy Analysis and Economic Development concentration from the Hertie School of Governance  in Berlin (2013-2015).
 
-[↳ Download CV](assets/files/cv.pdf){: .btn .btn-outline-secondary .btn-center}
+[↳ Download CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
 
-I enjoy discussing and learning about Causal Inference Econometrics, Social Network Analysis, and Machine Learning.
+I enjoy discussing and learning about Causal Inference Econometrics, Social Network Analysis, and Social and Economic Development (Education, Health, Labour).
