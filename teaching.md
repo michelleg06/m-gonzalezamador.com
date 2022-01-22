@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 image: unumerit.png
-caption: "Coat of arms of the University of Oxford."
+caption: "UNU-MERIT logo."
 ---
 
 ## Teaching
