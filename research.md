@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Research
-image: network.png
-caption: "A network-based SIR simulation of a COVID-19 outbreak."
+image: networkHS.png
+caption: "A network of High School friendships coloured by ethnicity from the book 'Social and Economic Networks' by Matthew Jackson."
 ---
 
 ## Research
@@ -31,7 +31,7 @@ an ethics and empathy driven approach to evaluate the use of Artificial Intellig
 in healthcare settings. The paper [ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-Enabled Healthcare](https://arxiv.org/abs/2111.04456)
 is available at Arxiv. With Edwin Lock and Simon Finster, we are currently working on understanding
 how exposure to narratives and peer behaviour affects reource-rich country citizens' willingness to
-share vaccines with resource-poor countries. For more information, you can visit the project's website
+share vaccines with resource-poor countries, within the context of the COVID-19 pandemic. For more information, you can visit the project's website
 [Sharing Vaccines](https://www.sharing-vaccines.org/), or download our [pre-analysis plan](https://doi.org/10.1257/rct.8422-1.0).
 
 
