@@ -14,29 +14,27 @@ and non-cognitive skills, and the study of these in resource-scarce settings, i.
 Some of the applied work that I do happens in Mexico, my home country.
 
 In collaboration with the International Labour Organisation, we revised and proposed
-a new framework with which to understand young people's aspirations as a 
-determinant of their future economic outcomes, and a complement to succesful employment policies.
+a new framework with which to understand young people's aspirations as 
+determinants of their future economic outcomes, and complements to succesful employment policies.
 The paper, [Youth aspirations and the future of work](https://www.ilo.org/employment/Whatwedo/Publications/WCMS_790120/lang--en/index.htm)
 was jointly written with Drew Gardiner and Micheline Goedhuys. 
 
 In related work, I design a video-intervention to affect aspirations of high school 
-students in Mexico. The Randomized Controlled trial was carried out during the 2018-2019
+students in Mexico. The Randomized Controlled Trial was carried out during the 2018-2019
 school year, with 45 participating schools from the Midwestern region of Mexico. We show that
-low-cost technological interventions, paired with a social networkdriven approach, are 
+low-cost technological interventions, paired with a social network-driven approach, are 
 effective policy tools to decrease information asymettries and optimise 
 student-decision making, through their aspirations. 
 
-I am also interested in mechanisms that maximise the benefits of scarce resources in low to
-middle income countries (LMICs). In response to the COVID-19 pandemic, I co-founded the
-project [Test and Contain](http://testandcontain.com), which considers the problem of utilising
-limited testing resources in an optimal way so as to minimise the impact on the health and
-livelihoods of those who are hardest hit in LMICs. This project is supported by an ACM SIGecom
-GCEC'20 grant. For more information, watch the 1 minute
-[poster video](https://www.youtube.com/watch?v=RHAzUeewFP0)
-submitted to GCEC'20 (received best poster video award).
+I am also interested in ethics, equity and redistribution. With Chinasa T. Okolo, we design
+an ethics and empathy driven approach to evaluate the use of Artificial Intelligence on patients
+in healthcare settings. The paper [ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-Enabled Healthcare](https://arxiv.org/abs/2111.04456)
+is available at Arxiv. With Edwin Lock and Simon Finster, we are currently working on understanding
+how exposure to narratives and peer behaviour affects reource-rich country citizens' willingness to
+share vaccines with resource-poor countries. For more information, you can visit the project's website
+[Sharing Vaccines](https://www.sharing-vaccines.org/), or download our [pre-analysis plan](https://doi.org/10.1257/rct.8422-1.0).
+
 
 {% include publications.html %}
-{% include preprints.html %}  
-  
 
-[↳ Full CV](assets/files/cv.pdf){: .btn .btn-outline-secondary .btn-center}
+[↳ Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
