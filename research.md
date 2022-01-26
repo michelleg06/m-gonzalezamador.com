@@ -36,5 +36,6 @@ share vaccines with resource-poor countries, within the context of the COVID-19 
 
 
 {% include publications.html %}
+{% include preprints.html %}
 
 [↳ Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
