@@ -23,7 +23,7 @@ In related work, I design a video-intervention to affect aspirations of high sch
 students in Mexico. The Randomized Controlled Trial was carried out during the 2018-2019
 school year, with 45 participating schools from the Midwestern region of Mexico. We show that
 low-cost technological interventions, paired with a social network-driven approach, are 
-effective policy tools to decrease information asymettries and optimise 
+effective policy tools to decrease information asymmetries and optimise 
 student-decision making, through their aspirations. 
 
 I am also interested in ethics, equity and redistribution. With Chinasa T. Okolo, we design
