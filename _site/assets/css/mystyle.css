@@ -1,0 +1,21 @@
+p {
+	text-align: justify;
+}
+
+.btn-center {
+	width: fit-content;
+	margin: 0 auto;
+	display: block;
+}
+
+a {
+	color: #6c757d;
+}
+
+a:hover, a:focus {
+  color: #545b62;
+}
+
+h2 {
+	margin-top: -0.2em !important;
+}
