@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-image: Coffee-github.png
+image: coffee-github.png
 caption: "A cup of coffee and a notepad."
 ---
 
