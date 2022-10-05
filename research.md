@@ -6,7 +6,7 @@ caption: "A network of High School friendships coloured by ethnicity from the bo
 ---
 
 ## Research
-My doctoral research  focuses on complex learning, with a focus on human capital investment (read education) of young people. I use diverse econometric and experimental methods to analyse how students interact with themselves, others and technology, and the economic implications of such actions. I am especially interested in the confluence of students' peer networks, technological innovations and non-cognitive skills, and the study of these in resource-scarce settings, i.e. Low and Middle-Income Countries. Some of the applied work that I do happens in Mexico, my home country.
+My doctoral research  focuses on complex learning, with a focus on human capital investment (read education) of young people. I use diverse econometric, algorithmic and experimental methods to analyse how students interact with themselves, systems and technology, and the economic implications of such actions. I am especially interested in the confluence of students' peer networks, technological innovations and non-cognitive skills, and the study of these in resource-scarce settings, i.e. Low and Middle-Income Countries. Some of the applied work that I do happens in Mexico, my home country.
 
 In collaboration with the International Labour Organisation, we revised and proposed
 a new framework with which to understand young people's aspirations as 
@@ -27,7 +27,7 @@ in healthcare settings. The paper [ACIPS: A Framework for Evaluating Patient Per
 is available at Arxiv. With Edwin Lock and Simon Finster, we are currently working on understanding
 how exposure to narratives and peer behaviour affects reource-rich country citizens' willingness to
 share vaccines with resource-poor countries, within the context of the COVID-19 pandemic. For more information, you can visit the project's website
-[Sharing Vaccines](https://www.sharing-vaccines.org/), or download our [pre-analysis plan](https://doi.org/10.1257/rct.8422-1.0). More recently, Edwin Lock, Simon Finster, Francisco Marmolejo-Cossío and I developed an algorithmic mechanism to safely reopen educational institutions during a pandemic and mitigate learning losses. You can visit the web application for [the COVID-19 Safe Education Framework](https://www.c-sef.com/) for more details on the project. Alternatively, you can download the [pre-analysis plan](https://doi.org/10.1257/rct.9466) for the RCT (trial start date: 21 August, 2022).
+[Sharing Vaccines](https://www.sharing-vaccines.org/), or download our [pre-analysis plan](https://doi.org/10.1257/rct.8422-1.0). More recently, Edwin Lock, Simon Finster, Francisco Marmolejo-Cossío and I developed an algorithmic mechanism to safely reopen educational institutions during a pandemic and mitigate learning losses. You can visit the web application for [the COVID-19 Safe Education Framework](https://www.c-sef.com/) for more details on the project. Alternatively, you can download the [pre-analysis plan](https://doi.org/10.1257/rct.9466) for the RCT.
 
 
 {% include publications.html %}
