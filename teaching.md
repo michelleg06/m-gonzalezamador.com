@@ -11,9 +11,11 @@ I enjoy teaching quantitative methods for the social sciences.
 
 ##### Master of Public Policy and Human Development, UNU-MERIT
 * Video-lecturer for Introduction to Data Science and Statistics, STATA software
+* Course development for Machine Learning for Public Policy, visit the [website](https://www.ml4publicpolicy.com/) for the syllabus.
 * Tutorial teaching of various subjects, including
   * Introduction to Data Science and Statistics
   * Public Policy Analysis (Impact Evaluation and Experiments)
+  * Public Policy
   * Regression Analysis I and II (linear models, non-linear models, panel data, and IV models)
   * Advanced Quantitative track (multinomial, censored, and MLE models)
  
