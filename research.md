@@ -32,4 +32,4 @@ donate to resource-poor countries, within the context of the COVID-19 pandemic a
 {% include publications.html %}
 {% include preprints.html %}
 
-[↳ Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
+[Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
