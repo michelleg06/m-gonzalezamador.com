@@ -21,7 +21,7 @@ low-cost technological interventions, paired with a social network-driven approa
 effective policy tools to decrease information asymmetries and optimise 
 student-decision making, through their aspirations. 
 
-I am also interested in ethics, equity and redistribution. With Chinasa T. Okolo and Juba Ziani, we design
+I am also interested in ethics, equity and redistribution. With Chinasa T. Okolo, we design
 an ethics and empathy driven approach to evaluate the use of Artificial Intelligence on patients
 in healthcare settings. The paper [ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-Enabled Healthcare](https://arxiv.org/abs/2111.04456)
 is available at Arxiv. With Stefania Merone, Edwin Lock, and Simon Finster, we are currently working on understanding
