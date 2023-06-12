@@ -9,6 +9,7 @@
 <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
 <br>
 <small class="text-secondary">
+{% if paper.note %} <span class="text-success">{{ paper.note }}</span> <br> {% endif %}
 {{ paper.authors}}.
 <br>
 {{ paper.venue }},
