@@ -23,8 +23,8 @@ student-decision making, through their aspirations.
 
 I am also interested in ethics, equity and redistribution. With Chinasa T. Okolo, we design
 an ethics and empathy driven approach to evaluate the use of Artificial Intelligence on patients
-in healthcare settings. The paper [ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-Enabled Healthcare](https://arxiv.org/abs/2111.04456)
-is available at Arxiv. With Stefania Merone, Edwin Lock, and Simon Finster, we are currently working on understanding
+in healthcare settings. A previous version of the paper [ACIPS: A Framework for Evaluating Patient Perception in the Introduction of AI-Enabled Healthcare](https://arxiv.org/abs/2111.04456)
+is available at Arxiv; you'll find the most recent version in PDF format below. With Stefania Merone, Edwin Lock, and Simon Finster, we are currently working on understanding
 how exposure to self-interest & altruistic narratives and peer behaviour affects reource-rich country citizens' willingness to
 donate to resource-poor countries, within the context of the COVID-19 pandemic and the Russo-Ukrainian war. You can find the [pre-analysis plan](https://doi.org/10.1257/rct.8422-1.0) for the first of two experiments online. 
 
