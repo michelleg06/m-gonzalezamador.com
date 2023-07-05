@@ -28,7 +28,7 @@ I enjoy teaching quantitative methods for the social sciences.
   * Introduction and Advanced Impact Evaluation, EPRM and GPAC^2 doctoral programme
 * Workshop on
   * Gentle Introduction to R for Network Analysis, IEGD doctoral programme
-  * [Gentle Introduction to Overleaf and LaTex](https://github.com/michelleg06/GenleIntro2Overleaf), GPAC2 doctoral programme
+  * [Gentle Introduction to Overleaf and LaTex](https://github.com/michelleg06/GenleIntro2Overleaf), GPAC^2 doctoral programme
 
 
 [Full CV](pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}
