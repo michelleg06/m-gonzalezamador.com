@@ -31,4 +31,4 @@ I enjoy teaching quantitative methods for the social sciences.
   * [Gentle Introduction to Overleaf and LaTex](https://github.com/michelleg06/GenleIntro2Overleaf), GPAC2 doctoral programme
 
 
-[↳ Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
+[Full CV](pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}
