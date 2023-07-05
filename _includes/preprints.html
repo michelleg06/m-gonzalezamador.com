@@ -1,20 +1,5 @@
 <h2 class="mt-4">Working Papers</h2>
 
-{% assign papers = site.preprints | sort:'number' %}
+{% assign papers = site.data.preprints %}
 
-{% for paper in papers %}
-<div class='mt-4'>
-<!-- {{ paper.number }}.  -->
-{{ paper.title }}
-<a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
-<br>
-<small class="text-secondary">
-{% if paper.note %} <span class="text-primary">{{ paper.note }}</span> <br> {% endif %}
-{{ paper.authors}}.
-<br>
-{{ paper.venue }},
-{% if paper.misc %} {{paper.misc }}, {% endif %}
-{{ paper.year }}
-</small>
-</div>
-{% endfor %}
+{% include paperlist.html %}
