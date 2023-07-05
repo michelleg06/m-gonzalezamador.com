@@ -34,4 +34,4 @@ More recently, Edwin Lock, Simon Finster, Francisco Marmolejo-Cossío and I deve
 {% include publications.html %}
 {% include preprints.html %}
 
-[Full CV](assets/files/cvmichelle.pdf){: .btn .btn-outline-secondary .btn-center}
+[Full CV](pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}
