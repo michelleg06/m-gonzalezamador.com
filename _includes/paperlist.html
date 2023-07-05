@@ -1,0 +1,42 @@
+{% for paper in papers %}
+<div class='mt-4'>
+
+    {{ paper.title }}
+    
+    {% if paper.link %}
+    <a class="badge badge-primary" href="{{ paper.link }}">link</a>
+    {% endif %}
+
+    {% if paper.arXiv %}
+    <a class="badge badge-primary" href="{{ paper.arXiv }}">arXiv</a>
+    {% endif %}
+
+    {% if paper.file %}
+    <a class="badge badge-primary" href="{{ paper.file }}">PDF</a>
+    {% endif %}
+
+<br>
+<small class="text-secondary">
+    
+    {% if paper.note %} <span class="text-success">{{ paper.note }}</span> <br> {% endif %}
+    
+    {{ paper.authors}}.
+    
+    <br>
+    
+    {{ paper.venue }},
+    
+    {% if paper.misc %} {{ paper.misc }} {% endif %}
+    
+    {{ paper.year }}
+
+</small>
+</div>
+
+{% if paper.abstract %}
+<div class="mt-4 pb-1">
+    {{ paper.abstract }}
+</div>
+{% endif %}
+
+{% endfor %}
