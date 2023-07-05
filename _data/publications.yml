@@ -1,0 +1,14 @@
+- number: 1
+  title: "Youth aspirations and the future of work"
+  authors: "Drew Gardiner, Micheline Goedhuys and <strong>Michelle González Amador</strong>"
+  link: "http://www.oit.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_790120.pdf"
+  venue: International Labor Organization (ILO)
+  year: 2021
+
+- number: 2
+  title: "Welfare-Maximizing Pooled Testing"
+  note: "Exemplary track paper award"
+  authors: "Simon Finster, <strong>Michelle González Amador</strong>, Edwin Lock, Francisco Marmolejo-Cossío, Evi Micha, Ariel D. Procaccia"
+  arXiv: "https://arxiv.org/abs/2206.10660"
+  venue: "24th ACM Conference on Economics and Computation"
+  year: "2023"
