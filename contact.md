@@ -29,5 +29,5 @@ required>
 <div class="form-group">
 <textarea class="form-control" name="Message" rows="4" placeholder="Message…" required></textarea>
 </div>
-<button class="btn btn-outline-secondary" type="submit" value="Send">Send</button>
+<button class="btn btn-outline-primary" type="submit" value="Send">Send</button>
 </form>
