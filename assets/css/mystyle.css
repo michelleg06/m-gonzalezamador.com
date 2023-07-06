@@ -11,9 +11,9 @@ p {
 }
 
 .btn:hover {
-color: #0080ff;
+color: white;
 text-decoration: none;
-background-color: #545b62;
+background-color: #0080ff;
 border-color: #0080ff;
 }
 
