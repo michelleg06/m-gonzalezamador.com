@@ -12,4 +12,4 @@ Prior to my doctoral studies, I completed a BA in International Relations (2008-
 
 [Download CV](/pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}
 
-I enjoy discussing and learning about Causal Inference Econometrics, Social Network Analysis, and Social and Economic Development (Education, Health, Labour).
+I enjoy discussing and learning about Causal Inference Econometrics, Machine Learning and Prediction for Social Good, Social Network Analysis, and Social and Economic Development (Education, Health, Labour).
