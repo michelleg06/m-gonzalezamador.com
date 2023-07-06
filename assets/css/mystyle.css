@@ -10,12 +10,21 @@ p {
 	border-color: ##0080ff;
 }
 
+.btn:hover {
+color: #0080ff;
+text-decoration: none;
+background-color: #0080ff;
+border-color: #0080ff;
+}
+
+
+
 a {
-	color: #0080ff;
+	color: #6c757d;
 }
 
 a:hover, a:focus {
-  color: #0080ff;
+  color: #545b62;
 }
 
 h2 {
