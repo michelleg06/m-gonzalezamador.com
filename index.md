@@ -1,6 +1,6 @@
 ---
 layout: index
-image: myface.png
+image: myface2.png
 ---
 ## About me
 I'm a finishing PhD Candidate at the United Nations University, Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT) and Maastricht University, School of Business and Economics (SBE). My thesis research focused on complex socioeconomic systems, with a focus on human capital investment (read education) of young people. I use diverse econometric, algorithmic and experimental methods to analyse how young people interact with themselves, systems and technology, and the economic implications of such actions. I was especially interested in the confluence of students' peer networks, technological innovations and non-cognitive skills, and the study of these in resource-scarce settings, i.e. Low and Middle-Income Countries. Some of the experimental work that I do happens in Mexico, my home country. Currently, I'm a visiting researcher at Stanford University's Impact Lab on [Equitable Access to Education](https://impact.stanford.edu/organization/equitable-access-education), under the supervision of Prof. Irene Lo.
