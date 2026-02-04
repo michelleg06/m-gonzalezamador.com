@@ -2,16 +2,13 @@
 layout: default
 title: Contact
 image: coffee-github.png
-caption: "A cup of coffee and a notepad."
+#caption: "A cup of coffee and a notepad."
 ---
 
 ## Get in touch
 
 Feel free to get in touch with me if you want to discuss my work, collaborate, 
-or just have a chat over virtual coffee.
-
-
-E-mail me at [{{ site.email }}](mailto:{{site.email}}) or fill in the form below.
+or just have a chat over virtual coffee. E-mail me at [{{ site.email }}](mailto:{{site.email}}) or fill in the form below.
 
 <form action="{{ site.formurl }}" method="POST" class="mt-4 text-left">
 <div class="form-row">
