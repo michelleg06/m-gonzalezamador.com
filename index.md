@@ -1,6 +1,6 @@
 ---
 layout: index
-image: profile.jpeg
+image: profile.png
 ---
 ## About me
 
