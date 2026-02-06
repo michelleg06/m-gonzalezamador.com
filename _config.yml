@@ -3,8 +3,8 @@
 url: "https://www.m-gonzalezamador.com"
 
 fullname: Michelle González Amador
-position: Postdoctoral Researcher | Economics | Computational Social Science
-department: Economic Research Institute, Agricultural Economics Chair
+position: Postdoctoral Researcher
+department: Economic Research Institute
 university: Wageningen University & Research
 
 building: Leeuwenborch  # optional
@@ -13,8 +13,8 @@ city: Wageningen  # optional
 postcode: 6706 KN  # optional
 country: Netherlands  # optional
 
-email: michelle.gonzalez.am@gmail.com
-secondary:  michelle.gonzalezamador@wur.nl
+email: michelle.gonzalezamador@wur.nl
+secondary: michelle.gonzalez.am@gmail.com 
 
 formurl: https://formspree.io/f/xrgnanyd
 
