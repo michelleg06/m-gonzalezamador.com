@@ -1,20 +1,23 @@
 <style>
 .news-ticker {
-  background: linear-gradient(90deg, #2c3e50 0%, #3498db 100%);
+  background: linear-gradient(90deg, #4169E1 0%, #6495ED 100%);
   color: white;
   padding: 8px 0;
   overflow: hidden;
   position: relative;
   font-size: 0.9rem;
+  border-radius: 25px;
+  margin: 10px 0;
 }
 
 .news-ticker::before {
   content: "📢";
   position: absolute;
-  left: 10px;
+  left: 15px;
   z-index: 2;
-  background: linear-gradient(90deg, #2c3e50 70%, transparent);
+  background: linear-gradient(90deg, #4169E1 70%, transparent);
   padding-right: 15px;
+  border-radius: 25px 0 0 25px;
 }
 
 .ticker-content {

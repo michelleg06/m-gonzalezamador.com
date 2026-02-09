@@ -24,11 +24,11 @@
     
     <br>
     
-    {{ paper.venue }},
-    
+    {{ paper.venue }}{% if paper.misc or paper.year %},{% endif %}
+
     {% if paper.misc %} {{ paper.misc }} {% endif %}
-    
-    {{ paper.year }}
+
+    {% if paper.year %}{{ paper.year }}{% endif %}
 
 </small>
 </div>
