@@ -1,34 +1,22 @@
 ---
 layout: default
 title: Teaching
-image: unumerit.png
-caption: "UNU-MERIT logo."
+image: teaching_code.gif
+caption: "The eternal debate."
 ---
-
 ## Teaching
 
-I enjoy teaching quantitative methods for the social sciences.
+**Course Development:** [Machine Learning for Public Policy](https://www.ml4publicpolicy.com/) (since 2022)— fully open-source course materials.
 
-##### Master of Public Policy and Human Development, UNU-MERIT
-* Video-lecturer for Introduction to Data Science and Statistics, STATA software
-* Course development for Machine Learning for Public Policy, visit the [website](https://www.ml4publicpolicy.com/) for the fully public and open source course.
-* Tutorial teaching of various subjects, including
-  * Introduction to Data Science and Statistics
-  * Public Policy Analysis (Impact Evaluation and Experiments)
-  * Public Policy
-  * Regression Analysis I and II (linear models, non-linear models, panel data, and IV models)
-  * Advanced Quantitative track (multinomial, censored, and MLE models)
- 
-##### Economics and Management of Information, School of Business and Economics, Maastricht University
-* Tutorial teaching of
-  * Network Economics, R and Rstudio software
+**Lecturer & Teaching Assistant**, UNU-MERIT & Maastricht University (2017–2024)
 
-##### Institutional Teaching and Workshops
-* Tutorial teaching of
-  * Introduction and Advanced Impact Evaluation, EPRM and GPAC^2 doctoral programme
-* Workshop on
-  * Gentle Introduction to R for Network Analysis, IEGD doctoral programme
-  * [Gentle Introduction to Overleaf and LaTex](https://github.com/michelleg06/GenleIntro2Overleaf), GPAC^2 doctoral programme
+- Data Science & Statistics, Regression Analysis, Impact Evaluation, Network Economics
 
+**Workshops**
+
+- [Gentle Introduction to Overleaf and LaTeX](https://github.com/michelleg06/GenleIntro2Overleaf)
+- Introduction to R for Network Analysis
+
+**Thesis Supervision:** 14 MSc students (Public Policy, Machine Learning)
 
 [Full CV](pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}

@@ -1,0 +1,18 @@
+<h2 class="mt-4">Grants & Awards</h2>
+
+{% for award in site.data.awards %}
+<div class='mt-3'>
+    <strong>{{ award.title }}</strong>
+    {% if award.amount %}
+    <span class="badge badge-success">{{ award.amount }}</span>
+    {% endif %}
+    <br>
+    <small class="text-secondary">
+        {{ award.source }}, {{ award.year }}
+        {% if award.description %}
+        <br>
+        <em>{{ award.description }}</em>
+        {% endif %}
+    </small>
+</div>
+{% endfor %}

@@ -1,0 +1,16 @@
+<h2 class="mt-4">Press & Media</h2>
+
+{% for item in site.data.press %}
+<div class='mt-3'>
+    {% if item.link %}
+    <a href="{{ item.link }}">{{ item.title }}</a>
+    {% else %}
+    {{ item.title }}
+    {% endif %}
+    <br>
+    <small class="text-secondary">
+        <strong>{{ item.outlet }}</strong>
+        {% if item.description %} — {{ item.description }}{% endif %}
+    </small>
+</div>
+{% endfor %}

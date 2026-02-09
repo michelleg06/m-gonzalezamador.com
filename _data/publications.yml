@@ -1,14 +1,21 @@
-- number: 1
-  title: "Youth aspirations and the future of work"
-  authors: "Drew Gardiner, Micheline Goedhuys and <strong>Michelle González Amador</strong>"
-  link: "http://www.oit.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_790120.pdf"
-  venue: International Labor Organization (ILO)
-  year: 2021
+# Dissertation
+- title: "Learning in low and middle-income countries: essays on education and development economics"
+  authors: "<strong>Michelle González Amador</strong>"
+  venue: "Doctoral Thesis, Maastricht University"
+  year: 2024
+  link: "https://doi.org/10.26481/dis.20241021mg"
 
-- number: 2
-  title: "Welfare-Maximizing Pooled Testing"
-  note: "Exemplary track paper award"
-  authors: "Simon Finster, <strong>Michelle González Amador</strong>, Edwin Lock, Francisco Marmolejo-Cossío, Evi Micha, Ariel D. Procaccia"
+# Published Research
+- title: "Welfare-Maximizing Pooled Testing"
+  authors: "Simon Finster, <strong>Michelle González Amador</strong>, Edwin Lock, Francisco Marmolejo-Cossío, Evi Micha, and Ariel D. Procaccia"
+  venue: "Proceedings of the 24th ACM Conference on Economics and Computation (EC'23)"
+  year: 2023
+  note: "Exemplary Track Paper Award - Applied Modeling"
+  misc: "Under review: Operations Research"
   arXiv: "https://arxiv.org/abs/2206.10660"
-  venue: "24th ACM Conference on Economics and Computation"
-  year: "2023"
+
+- title: "Youth aspirations and the future of work"
+  authors: "Drew Gardiner, Micheline Goedhuys, and <strong>Michelle González Amador</strong>"
+  venue: "Book Chapter. In: Is the future ready for youth? International Labour Organization, Geneva"
+  year: 2021
+  link: "http://www.oit.org/wcmsp5/groups/public/---ed_emp/documents/publication/wcms_790120.pdf"

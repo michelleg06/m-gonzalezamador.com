@@ -1,43 +1,63 @@
-<footer class="text-center">
+<footer class="text-center small">
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  
-	<div class="border-top pt-4 row justify-content-md-center">
-		<div class="col-sm-3">
-			<strong>Address</strong>
-			<address>
-				{% if site.building %} {{site.building}} {% endif %}
-        <br>
-				{% if site.street %} {{site.street}} {% endif %}
-        <br>
-				{% if site.city %} {{site.city}} {% endif %}
-				{% if site.postcode %} {{site.postcode}} {% endif %}
-        <br>
-				{% if site.country %} {{site.country}} {% endif %}
-			</address>
-		</div>
-		<div class="col-sm-3">
-			<strong>Email</strong><br>
-			<a class="text-secondary" href="mailto:{{site.email}}">{{site.email}}</a>
-      {% if site.secondary %}
-        <br>
-        <a class="text-secondary" href="mailto:{{site.secondary}}">{{site.secondary}}</a>
-      {% endif %}
-		</div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-    <div class="col-sm-3">
-      <strong>Projects</strong> <br>
-      <a class="text-secondary" href="https://www.ml4publicpolicy.com/">Machine Learning for Public Policy</a>
-      <br>
-      <a class="text-secondary" href="https://demo.c-sef.com/">C-SEF: Algorithmic mechanism to safe education in a pandemic</a>
-      <br>
-      <div class="mt-2">
-        <a class="text-secondary" href="http://github.com/michelleg06/">http://github.com/michelleg06/</a>
+  <div class="border-top pt-3 pb-2 row justify-content-center align-items-start">
+
+    <!-- Contact -->
+    <div class="col-sm-3 col-6 mb-2">
+      <strong><i class="bi bi-envelope-fill"></i> Contact</strong>
+      <div class="mt-1">
+        <a class="text-secondary" href="mailto:{{site.email}}" title="{{site.email}}">
+          <i class="bi bi-envelope"></i> Primary
+        </a>
+        {% if site.secondary %}
+        <br>
+        <a class="text-secondary" href="mailto:{{site.secondary}}" title="{{site.secondary}}">
+          <i class="bi bi-envelope"></i> Personal
+        </a>
+        {% endif %}
       </div>
     </div>
-	</div>
-	<span class="text-center pb-3">
+
+    <!-- Projects -->
+    <div class="col-sm-3 col-6 mb-2">
+      <strong><i class="bi bi-github"></i> Projects</strong>
+      <div class="mt-1">
+        <a class="text-secondary" href="https://www.ml4publicpolicy.com/">ML4Policy</a>
+        <br>
+        <a class="text-secondary" href="https://demo.c-sef.com/">C-SEF</a>
+        <br>
+        <a class="text-secondary" href="http://github.com/michelleg06/">GitHub</a>
+      </div>
+    </div>
+
+    <!-- Map -->
+    <div class="col-sm-4 col-12 mb-2">
+      <strong><i class="bi bi-geo-alt-fill"></i> Location</strong>
+      <div id="footer-map" style="height: 100px; width: 100%; margin-top: 5px; border-radius: 5px;"></div>
+    </div>
+
+  </div>
+
+  <span class="text-muted pb-2 d-block" style="font-size: 0.75rem;">
     © {{ site.fullname }} {{ site.time | date: "%Y" }}
   </span>
+
+  <script>
+    var map = L.map('footer-map', {
+      zoomControl: false,
+      dragging: false,
+      scrollWheelZoom: false
+    }).setView([51.9851, 5.6658], 15);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: ''
+    }).addTo(map);
+
+    L.marker([51.9851, 5.6658]).addTo(map)
+      .bindPopup('Wageningen University<br>Leeuwenborch');
+  </script>
 </footer>

@@ -1,0 +1,87 @@
+<style>
+.news-ticker {
+  background: linear-gradient(90deg, #2c3e50 0%, #3498db 100%);
+  color: white;
+  padding: 8px 0;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.9rem;
+}
+
+.news-ticker::before {
+  content: "📢";
+  position: absolute;
+  left: 10px;
+  z-index: 2;
+  background: linear-gradient(90deg, #2c3e50 70%, transparent);
+  padding-right: 15px;
+}
+
+.ticker-content {
+  display: inline-block;
+  white-space: nowrap;
+  padding-left: 40px;
+  animation: ticker 20s linear infinite;
+}
+
+.ticker-content:hover {
+  animation-play-state: paused;
+}
+
+.ticker-item {
+  display: inline;
+  padding: 0 30px;
+}
+
+.ticker-item a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(255,255,255,0.5);
+}
+
+.ticker-item a:hover {
+  border-bottom-color: white;
+}
+
+.ticker-date {
+  opacity: 0.8;
+  font-size: 0.85em;
+}
+
+@keyframes ticker {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+</style>
+
+<div class="news-ticker">
+  <div class="ticker-content">
+    {% for item in site.data.news %}
+    <span class="ticker-item">
+      {% if item.link %}
+      <a href="{{ item.link }}">{{ item.text }}</a>
+      {% else %}
+      {{ item.text }}
+      {% endif %}
+      <span class="ticker-date">({{ item.date }})</span>
+      {% unless forloop.last %} • {% endunless %}
+    </span>
+    {% endfor %}
+    <!-- Duplicate for seamless loop -->
+    {% for item in site.data.news %}
+    <span class="ticker-item">
+      {% if item.link %}
+      <a href="{{ item.link }}">{{ item.text }}</a>
+      {% else %}
+      {{ item.text }}
+      {% endif %}
+      <span class="ticker-date">({{ item.date }})</span>
+      {% unless forloop.last %} • {% endunless %}
+    </span>
+    {% endfor %}
+  </div>
+</div>
