@@ -1,5 +1,11 @@
+- title: "NWO SSH Open Competition XS"
+  year: 2026
+  source: "Dutch Research Council (NWO)"
+  description: "Co-applicant for 'Technological progress and social mobility: Schooling choices when wage-returns to education are convex'"
+  amount: "€49,992"
+
 - title: "Exemplary Track Paper Award"
-  year: 2024
+  year: 2023
   source: "24th ACM Conference on Economics and Computation"
   description: "Awarded for 'Welfare-Maximizing Pooled Testing' (Applied Modeling track)"
 

@@ -1,14 +1,19 @@
 # Working Papers
-- title: "Malleability of Educational Aspirations: A Networked Field Experiment in 45 Mexican High Schools"
+- title: "Peer Networks and Malleability of Educational Aspirations"
   authors: "<strong>Michelle González Amador</strong>, Robin Cowan, and Eleonora Nillesen"
   venue: "Working Paper"
-  misc: "Submitted: Economics of Education Review"
+  misc: "Submitted: Journal of Behavioral and Experimental Economics"
   arXiv: "https://arxiv.org/abs/2209.08340"
+
+- title: "Labor Market Returns to Education and Intra-family Educational Inequality: Theory and Experimental Evidence"
+  authors: "Esther Gehrke and <strong>Michelle González Amador</strong>"
+  venue: "Working Paper"
+  misc: "Presented at NED'26"
+  link: "https://doi.org/10.1257/rct.17183-1.0"
 
 - title: "IAC: A Framework for Enabling Patient Agency in the Use of AI-Enabled Healthcare"
   authors: "Chinasa T. Okolo and <strong>Michelle González Amador</strong>"
   venue: "Working Paper"
-  misc: "Submitted: ACM Conference on Fairness, Accountability, and Transparency (Special Issue: The Ethics of Medical AI)"
   arXiv: "https://arxiv.org/abs/2111.04456"
 
 - title: "Fighting the Learning Loss: Evaluating C-SEF for University Students and Staff"
@@ -18,13 +23,24 @@
   link: "https://doi.org/10.1257/rct.9466-2.0"
 
 # Ongoing Field Experiments & Data Collection
-- title: "Parental Preferences and Educational Inequality: Evidence from Mexico"
-  authors: "<strong>Michelle González Amador</strong> and Esther Gehrke"
+- title: "Cash Transfers, Training and Savings Groups in Rural Rwanda"
+  authors: "Erwin Bulte, <strong>Michelle González Amador</strong>, and Clement Uwizeye"
   venue: "Field Experiment"
-  misc: "Data collection phase"
-  link: "https://doi.org/10.1257/rct.12183-1.0"
+  misc: "Cluster-randomised trial in 90 villages (1,800 households); first transfers made in 2026"
 
 # Work in Progress
+- title: "The Income Gradient of Between-Sibling Educational Inequality"
+  authors: "<strong>Michelle González Amador</strong>, Esther Gehrke, and Tomohisa Miyamoto"
+  venue: "Work in Progress"
+
+- title: "Networks and Human Capital"
+  authors: "<strong>Michelle González Amador</strong>"
+  venue: "Work in Progress"
+
+- title: "Social Networks in Rwanda: Network Architecture and Village Dynamics"
+  authors: "Erwin Bulte, <strong>Michelle González Amador</strong>, and Clement Uwizeye"
+  venue: "Work in Progress"
+
 - title: "Machine Learning and Tax Base in Developing Countries"
   authors: "<strong>Michelle González Amador</strong> and Rose Vincent"
   venue: "Work in Progress"
