@@ -6,7 +6,7 @@ image: profile.png
 
 I am a postdoctoral researcher at Wageningen University & Research. I study how social and economic networks, algorithms, and behavioral interventions shape the way young people learn and make educational choices, and how to design policies that reduce inequality and expand opportunity. My work combines econometrics, machine learning, and field experiments, with a focus on low- and middle-income countries.
 
-**Affiliations.** I am currently affiliated to the Association for Computing Machinery ([ACM](https://www.acm.org/)), the Network Science Society ([NetSci](https://netscisociety.net/)), and the Dutch Development Economics Network ([DuDe](https://dev-econ.nl)). I am also a co-founder of the [Summer of Science](https://www.eaamo.org/projects/rednacecyt-2025-summer-of-science-program), a mentorship program for indigenous women in scientific research, under the [EAAMO](https://www.eaamo.org/) community.
+**Affiliations.** I am currently affiliated to the Association for Computing Machinery ([ACM](https://www.acm.org/)), the Network Science Society ([NetSci](https://netscisociety.net/)), the Dutch Development Economics Network ([DuDe](https://dev-econ.nl)), and [EAAMO-Bridges](https://www.eaamo.org/), where I am a project co-organiser. I co-founded and co-organise the [Verano Internacional de la Ciencia](https://bridges.eaamo.org/projects/) (Summer of Science), a mentorship program for indigenous women in scientific research.
 
 [Download CV](/pdfs/cv.pdf){: .btn .btn-outline-secondary .btn-center}
 

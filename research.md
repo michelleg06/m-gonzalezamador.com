@@ -8,7 +8,7 @@ caption: "A network of High School friendships coloured by ethnicity from the bo
 
 I am a development economist combining field experiments, network analysis, and machine learning to study human capital investment in low and middle-income countries. My work examines how social networks shape educational aspirations, how families allocate resources among children, and how to optimally distribute scarce healthcare resources. 
 
-**Research interests:** education economics, healthcare, network science, mechanism design, machine learning for policy.
+**Research fields:** computational economics, development economics, economics of education, social and economic networks, human capital, field and lab-in-the-field experiments, machine learning for public policy.
 
 {% include publications.html %}
 

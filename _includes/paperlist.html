@@ -11,6 +11,10 @@
     <a class="badge badge-primary" href="{{ paper.arXiv }}">arXiv</a>
     {% endif %}
 
+    {% if paper.prereg %}
+    <a class="badge badge-primary" href="{{ paper.prereg }}">pre-registration</a>
+    {% endif %}
+
     {% if paper.file %}
     <a class="badge badge-primary" href="{{ paper.file }}">PDF</a>
     {% endif %}
