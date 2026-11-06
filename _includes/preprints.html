@@ -1,5 +1,17 @@
+{% assign papers = site.data.workingpapers | where: "venue", "Working Paper" %}
+{% if papers.size > 0 %}
 <h2 class="mt-4">Working Papers</h2>
-
-{% assign papers = site.data.workingpapers %}
-
 {% include paperlist.html %}
+{% endif %}
+
+{% assign papers = site.data.workingpapers | where: "venue", "Field Experiment" %}
+{% if papers.size > 0 %}
+<h2 class="mt-4">Ongoing Field Experiments</h2>
+{% include paperlist.html %}
+{% endif %}
+
+{% assign papers = site.data.workingpapers | where: "venue", "Work in Progress" %}
+{% if papers.size > 0 %}
+<h2 class="mt-4">Work in Progress</h2>
+{% include paperlist.html %}
+{% endif %}

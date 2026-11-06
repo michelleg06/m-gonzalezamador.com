@@ -8,6 +8,8 @@ caption: "A network of High School friendships coloured by ethnicity from the bo
 
 I am a development economist combining field experiments, network analysis, and machine learning to study human capital investment in low and middle-income countries. My work examines how social networks shape educational aspirations, how families allocate resources among children, and how to optimally distribute scarce healthcare resources. 
 
+With Esther Gehrke, I am working on an NWO SSH Open Competition XS-funded project examining nearshoring, wage returns and schooling choices in Mexico. I also contribute to the development of [AIM for Scale's AI for Agriculture innovation package](https://aimforscale.org/innovation-packages/ai-for-agriculture/) for low- and middle-income countries through my appointment in WUR's Information Technology Group.
+
 **Research fields:** computational economics, development economics, economics of education, social and economic networks, human capital, field and lab-in-the-field experiments, machine learning for public policy.
 
 {% include publications.html %}
