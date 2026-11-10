@@ -4,7 +4,7 @@ image: profile.png
 ---
 ## About me
 
-I am a postdoctoral researcher at Wageningen University & Research, with concurrent appointments in the Agricultural Economics and Rural Policy Group and the [Information Technology Group](https://www.wur.nl/en/chair-groups/business-science/information-technology). I study how social and economic networks, algorithms, and behavioral interventions shape the way young people learn and make educational choices, and how to design policies that reduce inequality and expand opportunity. My work combines econometrics, machine learning, and field experiments, with a focus on low- and middle-income countries.
+I am a postdoctoral researcher at Wageningen University & Research, with concurrent appointments in the Agricultural Economics and Rural Policy Group and the [Information Technology Group](https://www.wur.nl/en/chair-groups/business-science/information-technology). As a development economist, I study how families, social networks, and algorithms shape investment in human capital, and how to design policies that reduce inequality and expand opportunity. My work combines field experiments, network analysis, economic theory, and computational methods, including machine learning, with a focus on low- and middle-income countries.
 
 I joined the Information Technology Group on 1 November 2026. In this role, I contribute to developing [AIM for Scale&#39;s AI for Agriculture innovation package](https://aimforscale.org/innovation-packages/ai-for-agriculture/) for low- and middle-income countries.
 
